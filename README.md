@@ -3,16 +3,17 @@
 My undergraduate thesis submitted to the Department of Computer Science and Technology, Dhaka University of Engineering and Technology(DUET), Gaziput.
 
 http://www.duet.ac.bd/
+
 http://www.duet.ac.bd/department/department-of-computer-science-engineering/
 
 ### Supervised By:
-Rupam Deb
-Assistant Professor
+Rupam Deb,
+Assistant Professor,
 Dept. Of CSE, DUET
 
 ### Authors
-ABDULLAH AL MARUF(me)
-MD. ABDUL GAFFER
+ABDULLAH AL MARUF(me),
+MD. ABDUL GAFFER,
 MD. RASHEDUL HAIDER RASHEL
 
 ## Abstract
